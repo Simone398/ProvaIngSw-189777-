@@ -1,6 +1,7 @@
-package it.unical.ingsw.ProvaI;
+package it.unical.ingsw.ProvaIntermedia;
 
 import java.util.ArrayList;
+
 
 public class MyListUtil 
 {
